@@ -1,3 +1,4 @@
+/*Write a C program to enter two numbers and find their sum.*/
 #include<stdio.h>
 main()
 {
