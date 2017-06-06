@@ -1,3 +1,4 @@
+/*Write a C program to enter two numbers and perform all arithmetic operations.*/k
 #include<stdio.h>
 main()
 int a,b,c; 
