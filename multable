@@ -1,3 +1,4 @@
+/*Write a C program to print table of any number.*/
 #include <stdio.h>
  int main()
 {
