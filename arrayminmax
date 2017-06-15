@@ -1,0 +1,21 @@
+#include <stdio.h>
+#define MAX_SIZE 100
+int main()
+{
+    int N, max, min;
+    int i;
+    printf("Enter size of the <a href="#">array</a>: ");
+    scanf("%d", &N);
+    printf("Enter %d elements in <a href="#">array</a>: ", N);
+    for(i=0; i<N; i++)
+    {
+        scanf("%d", &<a href="#">array</a>[i]);
+    }
+ 
+    max = maximum(<a href="#">array</a>, 0, N);
+    min = minimum(<a href="#">array</a>, 0, N);
+    printf("Minimum element in <a href="#">array</a> = %d\n", min);
+    printf("Maximum element in <a href="#">array</a> = %d\n", max);
+     return 0;
+     }
+ 
