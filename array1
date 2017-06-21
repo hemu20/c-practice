@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+int a[5]={10,20,45,66,89},i;
+clrscr();
+printf("given array is\n");
+for(i=0;i<5;i++)
+{
+printf("a[%d]=%d\n",i,a[i]);
+}
+}
